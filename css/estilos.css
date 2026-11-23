@@ -21,7 +21,9 @@ main {
     padding: 30px 20px;
 }
 
-
+h2 {
+    text-align: center;
+}
 
 .productos {
     display: flex;
