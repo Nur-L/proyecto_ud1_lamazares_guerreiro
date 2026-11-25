@@ -10,3 +10,5 @@ Sigue la siguiente estructura:
 
 \- README.md → archivo de ayuda, en el que podemos poner información relevante para informar.
 
+Para este proyecto usaremos Git con Git Bash, Gitea, GitHub y GitHub Pages.
+
