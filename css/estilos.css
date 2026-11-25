@@ -96,3 +96,15 @@ footer {
     margin-top: 15px;
     font-weight: bold;
 }
+
+#cesta {
+    position: absolute;
+    right: 20px;
+    top: 35px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #b87545;
+    color: white;
+    cursor: pointer;
+}
