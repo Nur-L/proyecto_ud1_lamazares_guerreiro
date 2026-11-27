@@ -14,3 +14,5 @@ function iniciarSesion() {
             "Bienvenido/a, " + usuario + "!";
     }
 }
+
+document.getElementById("boton").addEventListener("click", function () {
