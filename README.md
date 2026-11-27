@@ -12,3 +12,7 @@ Sigue la siguiente estructura:
 
 Para este proyecto usaremos Git con Git Bash, Gitea, GitHub y GitHub Pages.
 
+
+
+\- Añado clave SSH en GitHub.
+
