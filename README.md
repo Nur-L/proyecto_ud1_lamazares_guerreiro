@@ -16,3 +16,4 @@ Para este proyecto usaremos Git con Git Bash, Gitea, GitHub y GitHub Pages.
 
 \- Añado clave SSH en GitHub.
 
+- Hemos realizado la migración con éxito
